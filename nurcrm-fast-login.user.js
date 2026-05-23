@@ -2,8 +2,6 @@
 // @name         NurCRM Fast Login PRO
 // @namespace    http://tampermonkey.net/
 // @version      2.2
-// @updateURL    https://raw.githubusercontent.com/твоё_имя/репозиторий/main/script.user.js
-// @downloadURL  https://raw.githubusercontent.com/твоё_имя/репозиторий/main/script.user.js
 // @description  Умный вход по ПИН/QR для NurCRM с защитой от автозаполнения браузера
 // @match        *://*.nurcrm.kg/*
 // @grant        none
