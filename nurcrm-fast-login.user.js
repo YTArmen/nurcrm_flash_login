@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NurCRM Fast Login PRO
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      2.7.1
 // @description  Ультимативный быстрый вход по ПИН/QR для NurCRM со звуком, логами и бэкапом
 // @match        *://*.nurcrm.kg/*
 // @grant        none
