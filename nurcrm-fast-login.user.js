@@ -5,6 +5,8 @@
 // @description  Ультимативный быстрый вход по ПИН/QR для NurCRM со звуком, логами и бэкапом
 // @match        *://*.nurcrm.kg/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/YTArmen/nurcrm_flash_login/main/nurcrm-fast-login.user.js
+// @downloadURL  https://raw.githubusercontent.com/YTArmen/nurcrm_flash_login/main/nurcrm-fast-login.user.js
 // ==/UserScript==
 
 (function() {
