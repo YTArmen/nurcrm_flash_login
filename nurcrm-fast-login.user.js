@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NurCRM Fast Login PRO
 // @namespace    http://tampermonkey.net/
-// @version      2.7.1
+// @version      2.7.101
 // @description  Ультимативный быстрый вход по ПИН/QR для NurCRM со звуком, логами и бэкапом
 // @match        *://*.nurcrm.kg/*
 // @grant        none
@@ -156,7 +156,7 @@
           <div style="display:flex; flex-direction:column; gap:10px;">
             <input type="text" id="ad-login" class="nfast-input" placeholder="Логин админа" autocomplete="off">
             <input type="text" id="ad-pass" class="nfast-input nfast-pass-mask" placeholder="Пароль админа" autocomplete="off">
-            <button id="ad-enter-btn" class="nfast-btn" type="button">Войти в panel</button>
+            <button id="ad-enter-btn" class="nfast-btn" type="button">Войти в панель</button>
           </div>
           <div class="nfast-actions">
             <button id="ad-close-auth" class="nfast-btn nfast-btn-secondary" type="button" style="margin:0; width:auto;">Отмена</button>
